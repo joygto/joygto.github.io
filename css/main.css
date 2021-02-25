@@ -1317,6 +1317,7 @@ pre .javascript .function {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  text-align: justify;
 }
 .post-toc .nav .nav-child {
   display: none;
